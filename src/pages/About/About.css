@@ -1,0 +1,33 @@
+.text-h1 {
+    font-weight: 50px;
+    font-family: 'Roboto', sans-serif;
+    align-items: flex-start;
+    color: #851A81;
+    text-align: center;
+    font-weight: bold;
+    width: 100%;
+    letter-spacing: 3px;
+    padding-top: 3px;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.pg {
+    font-size: 30px;
+    color: gray;
+    text-align: center;
+    margin-top: 20px;
+    line-height: 48px;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    align-items: center;
+}
+
+.img {
+    align-items: center;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+
+
+
+}

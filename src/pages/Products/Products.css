@@ -1,0 +1,61 @@
+.h2 {
+    color: #851A81;
+    border-radius: 8px;
+    margin-top: 45px;
+}
+
+.pg {
+    font-size: 25px;
+    color: gray;
+    text-align: center;
+    margin-top: 40px;
+    line-height: 28px;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    align-items: left;
+    margin-left: 0;
+    text-align: left;
+
+}
+
+.type {
+    color: #851A81;
+    font-size: 45;
+    font-family: 'Roboto';
+    list-style: circle;
+    margin-top: 25px;
+    line-height: 40px;
+}
+
+.proimg {
+    margin-top: 40px;
+    max-width: 80%;
+    height: auto;
+    overflow: hidden;
+    padding-right: 0%;
+    margin-left: 115px;
+}
+
+.button {
+    size: 55px;
+    color: #851A81;
+
+}
+
+.box {
+    max-width: 100%;
+    width: 100%;
+}
+
+.col-md-3 {
+    margin-bottom: 45px;
+}
+
+
+.blogs {
+    margin-top: 50px;
+    padding: 25px;
+    overflow: hidden;
+    width: 100%;
+    height: auto;
+}
